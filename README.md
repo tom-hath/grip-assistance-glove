@@ -8,3 +8,4 @@ the firmwear will include:
 a calibartion system on start for maximum and minimum servo angles
 rate of change limiting to ensure servos remain smooth
 a release mechanism so servos release when required.
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/c353d4b3-96f6-4e38-afed-4f0e7d0a1975" />
